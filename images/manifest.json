@@ -1,0 +1,66 @@
+{
+  "id" : "https://hannagentili.github.io/IIIF/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in hannagentili/IIIF project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2443,
+    "id" : "https://hannagentili.github.io/IIIF/images/weddinggoal/canvas/",
+    "label" : {
+      "none" : [ "weddinggoal" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://hannagentili.github.io/IIIF/images/weddinggoal/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://hannagentili.github.io/IIIF/images/weddinggoal/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 77,
+              "height" : 111
+            }, {
+              "width" : 153,
+              "height" : 221
+            }, {
+              "width" : 306,
+              "height" : 441
+            }, {
+              "width" : 611,
+              "height" : 882
+            }, {
+              "width" : 1222,
+              "height" : 1764
+            }, {
+              "width" : 2443,
+              "height" : 3528
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2443,
+            "@id" : "https://hannagentili.github.io/IIIF/images/weddinggoal",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3528
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2443,
+          "id" : "https://hannagentili.github.io/IIIF/images/weddinggoal/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3528
+        },
+        "target" : "https://hannagentili.github.io/IIIF/images/weddinggoal/canvas/"
+      } ]
+    } ],
+    "height" : 3528
+  } ]
+}
