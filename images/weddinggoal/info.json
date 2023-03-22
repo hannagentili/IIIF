@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 77,
+    "height" : 111
+  }, {
+    "width" : 153,
+    "height" : 221
+  }, {
+    "width" : 306,
+    "height" : 441
+  }, {
+    "width" : 611,
+    "height" : 882
+  }, {
+    "width" : 1222,
+    "height" : 1764
+  }, {
+    "width" : 2443,
+    "height" : 3528
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2443,
+  "@id" : "https://hannagentili.github.io/IIIF/images/weddinggoal",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3528
+}
