@@ -9,5 +9,16 @@
     "@type" : "sc:Manifest",
     "@id" : "https://hannagentili.github.io/IIIF/manifests/weddingmanifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hannagentili.github.io/IIIF/manifests/broadsheet.json",
+    "label" : [ "Printed Broadsheets", {
+      "@value" : "Jewish Wedding Poems ",
+      "@language" : ""
+    }, {
+      "@value" : "Jewish Life in Renaissance Italy"
+    }, {
+      "@value" : "gematria"
+    } ]
   } ]
 }
